@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<input>
+		<node id="1">123 500</node>
+		<node id="2">1 2</node>
+		<node id="3">60 0</node>
+		<node id="4">32767 32766</node>
+	</input>
+	<output>
+		<node id="1">623</node>
+		<node id="2">3</node>
+		<node id="3">60</node>
+		<node id="4">65533</node>
+	</output>
+</root>

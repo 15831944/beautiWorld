@@ -1,0 +1,9 @@
+E:\工档\Compiler\Compiler\obj\Debug\ResolveAssemblyReference.cache
+E:\工档\Compiler\Compiler\bin\Debug\Compiler.exe
+E:\工档\Compiler\Compiler\bin\Debug\Compiler.pdb
+E:\工档\Compiler\Compiler\obj\Debug\Compiler.exe
+E:\工档\Compiler\Compiler\obj\Debug\Compiler.pdb
+E:\GitHub\beauti-world\Compiler\obj\Debug\Compiler.exe
+E:\GitHub\beauti-world\Compiler\obj\Debug\Compiler.pdb
+E:\GitHub\beautiWorld\Compiler\obj\Debug\Compiler.exe
+E:\GitHub\beautiWorld\Compiler\obj\Debug\Compiler.pdb

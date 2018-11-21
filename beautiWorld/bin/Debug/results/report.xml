@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <info name="admin" course="C#程序设计" round="3" week="10" index="1" language="C" />
+  <result score="100" state="结果正确">
+    <node id="1" passed="True">你的结果是正确的</node>
+    <node id="2" passed="True">你的结果是正确的</node>
+    <node id="3" passed="True">你的结果是正确的</node>
+    <node id="4" passed="True">你的结果是正确的</node>
+  </result>
+</root>
